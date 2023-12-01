@@ -1,0 +1,16 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lines",
+		"map",
+		"rx" ],
+	"name" : "Day1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

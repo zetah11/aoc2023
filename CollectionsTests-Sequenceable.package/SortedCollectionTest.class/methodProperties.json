@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAdd" : "DM 3/16/2006 11:27",
+		"testAddAll" : "DM 3/16/2006 11:30",
+		"testAddAll2" : "DM 3/16/2006 11:32",
+		"testCollect" : "DM 3/16/2006 11:33",
+		"testCopy" : "DM 3/16/2006 11:39",
+		"testCreation" : "DM 3/16/2006 11:30",
+		"testEquals" : "DM 3/16/2006 11:42",
+		"testMedian" : "DM 3/16/2006 11:43",
+		"testRemoveAll" : "nice 9/14/2009 21:02",
+		"testReversed" : "eem 11/22/2014 07:55",
+		"testShouldPrecede" : "ul 6/2/2016 20:14",
+		"testSort" : "ul 12/23/2009 12:20",
+		"testSortBlock" : "DM 3/16/2006 11:38",
+		"testSpeciesLooseSortBlock" : "nice 5/22/2008 09:59" } }

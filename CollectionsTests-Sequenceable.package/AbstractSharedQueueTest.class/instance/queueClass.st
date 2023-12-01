@@ -1,0 +1,3 @@
+private
+queueClass
+	^self subclassResponsibility

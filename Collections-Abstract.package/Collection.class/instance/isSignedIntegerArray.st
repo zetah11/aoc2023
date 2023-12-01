@@ -1,0 +1,3 @@
+testing
+isSignedIntegerArray
+	^false

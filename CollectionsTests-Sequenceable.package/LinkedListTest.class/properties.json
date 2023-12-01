@@ -1,0 +1,32 @@
+{
+	"category" : "CollectionsTests-Sequenceable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mk 8/3/2005 11:55",
+	"instvars" : [
+		"nextLink",
+		"n",
+		"list",
+		"link1",
+		"link2",
+		"link3",
+		"link4",
+		"nonEmpty",
+		"otherList",
+		"link",
+		"collectionWithNil",
+		"collectionWithoutNil",
+		"nonEmpty1Element",
+		"collectionWithoutEqualElements",
+		"elementNotIn",
+		"elementIn",
+		"sameAtendAndBegining",
+		"collection5Elements",
+		"collectResult" ],
+	"name" : "LinkedListTest",
+	"pools" : [
+		 ],
+	"super" : "ClassTestCase",
+	"type" : "normal" }

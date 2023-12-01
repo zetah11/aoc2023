@@ -1,0 +1,6 @@
+OrderedDictionary {
+	'AoC.package' : #SquotCypressCodeSerializer,
+	'CollectionsTests-Sequenceable.package' : #SquotCypressCodeSerializer,
+	'Collections-Abstract.package' : #SquotCypressCodeSerializer,
+	'AoCTests.package' : #SquotCypressCodeSerializer
+}

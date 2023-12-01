@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assert:is:withinUlp:" : "nice 3/3/2021 10:24",
+		"expectedFailures" : "nice 3/3/2021 00:51",
+		"testAdd" : "nice 3/3/2021 10:11",
+		"testAsIntervalWithFractionalProgression" : "nice 3/3/2021 09:56",
+		"testCollect" : "nice 3/3/2021 10:14",
+		"testDo" : "nice 3/3/2021 10:13",
+		"testElementOutOfBound" : "nice 3/3/2021 10:28",
+		"testIncludesBound" : "nice 3/3/2021 00:43",
+		"testInclusion" : "nice 12/22/2009 16:06",
+		"testInclusionBug6455" : "nice 3/3/2021 01:53",
+		"testIndexOfBug6455" : "nice 3/3/2021 01:55",
+		"testInfiniteLoopBug6456" : "nice 12/22/2009 16:19",
+		"testIntervalOfFloatEqual" : "nice 4/6/2019 23:58",
+		"testLast" : "nice 4/7/2019 22:00",
+		"testReversed" : "nice 4/6/2019 15:34",
+		"testSum" : "nice 3/3/2021 10:22",
+		"testSurprisingFuzzyInclusionBehavior" : "nice 4/6/2019 17:58" } }
