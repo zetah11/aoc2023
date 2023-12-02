@@ -1,0 +1,6 @@
+{
+	"class" : {
+		"with:sentTo:" : "z 12/2/2023 21:30" },
+	"instance" : {
+		"eat:" : "z 12/2/2023 21:29",
+		"initialize:sentTo:" : "z 12/2/2023 21:30" } }

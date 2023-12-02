@@ -1,0 +1,1 @@
+I parse using another parser, transforming the successful result with a block.

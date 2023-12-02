@@ -2,4 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "z 12/2/2023 09:12" } }
+		"gameParser" : "z 12/2/2023 22:19",
+		"games" : "z 12/2/2023 22:28",
+		"initialize" : "z 12/2/2023 22:20",
+		"possible" : "z 12/2/2023 22:28",
+		"possibleIds" : "z 12/2/2023 22:30",
+		"powers" : "z 12/2/2023 22:39" } }

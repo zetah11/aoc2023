@@ -1,0 +1,1 @@
+I parse a single character matching a predicate.

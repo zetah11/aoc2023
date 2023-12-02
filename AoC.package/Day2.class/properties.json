@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"limit" ],
+		"limit",
+		"parser" ],
 	"name" : "Day2",
 	"pools" : [
 		 ],
