@@ -1,0 +1,3 @@
+converting
+asFloat64Array
+	^contents asFloat64Array
