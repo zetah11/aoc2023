@@ -1,0 +1,15 @@
+{
+	"category" : "AoC-Parsing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "z 12/2/2023 10:31",
+	"instvars" : [
+		"start",
+		"string" ],
+	"name" : "ParsingSource",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

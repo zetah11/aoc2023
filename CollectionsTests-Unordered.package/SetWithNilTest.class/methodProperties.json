@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"runSetWithNilTestOf:" : "ul 11/2/2015 04:50",
+		"testIdentitySetWithNil" : "ar 2/1/2010 21:24",
+		"testKeyedIdentitySetWithNil" : "ar 2/1/2010 21:28",
+		"testKeyedSetWithNil" : "ul 2/19/2010 15:59",
+		"testPluggableSetWithNil" : "ar 2/1/2010 21:24",
+		"testSetWithNil" : "ar 2/1/2010 21:24",
+		"testWeakSetWithNil" : "ar 2/1/2010 21:40" } }

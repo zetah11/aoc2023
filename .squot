@@ -3,5 +3,6 @@ OrderedDictionary {
 	'CollectionsTests-Sequenceable.package' : #SquotCypressCodeSerializer,
 	'Collections-Abstract.package' : #SquotCypressCodeSerializer,
 	'AoCTests.package' : #SquotCypressCodeSerializer,
-	'Collections-Unordered.package' : #SquotCypressCodeSerializer
+	'Collections-Unordered.package' : #SquotCypressCodeSerializer,
+	'CollectionsTests-Unordered.package' : #SquotCypressCodeSerializer
 }

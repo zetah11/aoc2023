@@ -1,0 +1,15 @@
+{
+	"category" : "CollectionsTests-Unordered",
+	"classinstvars" : [
+		"testToto",
+		"pt1" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DictionaryTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

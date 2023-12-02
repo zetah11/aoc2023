@@ -4,4 +4,4 @@ withFileNamed: path
 	stream := FileStream readOnlyFileNamed: path.
 	input := stream contents.
 	stream close.
-	^ self basicNew initialize: input.
+	^ self withInput: input

@@ -1,0 +1,1 @@
+I represent some suffix of a string.

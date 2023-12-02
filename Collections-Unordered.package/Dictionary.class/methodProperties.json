@@ -3,8 +3,10 @@
 		"newFrom:" : "cbc 4/13/2016 15:21",
 		"newFromPairs:" : "fbs 9/9/2011 11:50" },
 	"instance" : {
+		"+" : "z 12/2/2023 09:46",
 		"=" : "ul 10/13/2015 23:23",
 		"add:" : "ul 1/25/2010 18:26",
+		"add:combining:" : "z 12/2/2023 09:45",
 		"addAll:" : "ar 8/24/2010 20:19",
 		"associationAt:" : "ar 11/20/2007 14:47",
 		"associationAt:ifAbsent:" : "ul 11/20/2009 16:59",

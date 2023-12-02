@@ -1,0 +1,15 @@
+{
+	"category" : "AoC-Parsing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"remainder",
+		"result" ],
+	"name" : "SuccessfulParse",
+	"pools" : [
+		 ],
+	"super" : "ParseResult",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+A parse result indicates whether a given parser successfully consumed some prefix of the input or if it failed to do so.

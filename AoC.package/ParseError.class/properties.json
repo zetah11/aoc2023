@@ -1,0 +1,14 @@
+{
+	"category" : "AoC-Parsing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ParseError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

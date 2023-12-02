@@ -1,0 +1,15 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"draws" ],
+	"name" : "Day2Game",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
