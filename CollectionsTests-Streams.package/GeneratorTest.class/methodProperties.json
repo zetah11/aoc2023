@@ -11,6 +11,7 @@
 		"testEnsure" : "lr 2/10/2010 09:02",
 		"testErrorPropagation" : "fbs 11/5/2013 08:43",
 		"testFibonacci" : "lr 1/8/2009 16:50",
+		"testInterleaving" : "z 12/3/2023 11:47",
 		"testNext" : "lr 1/8/2009 16:33",
 		"testPeek" : "lr 1/8/2009 16:45",
 		"testReset" : "lr 1/8/2009 16:35",
