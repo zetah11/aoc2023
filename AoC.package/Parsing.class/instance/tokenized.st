@@ -1,4 +1,6 @@
 combinator
 tokenized
 	"Parse using the receiver, skipping whitespace characters preceeding it"
-	^ TokenParsing with: self
+	| whitespace |
+	whitespace := (Parsing characterMatching: [:c | c isSeparator]) manyTimes.
+	^ self tokenizedSkipping: whitespace

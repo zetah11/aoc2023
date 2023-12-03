@@ -1,0 +1,3 @@
+enumerating
+readStream
+	^ parser readStream
