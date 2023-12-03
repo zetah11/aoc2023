@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "pre 4/30/2018 13:57",
+		"testDecode" : "pre 4/30/2018 13:51",
+		"testEncodeSimpleString" : "pre 4/30/2018 14:25",
+		"testEncodeSimpleStringWithQuestionMark" : "pre 4/30/2018 14:30",
+		"testRoundtrip" : "pre 4/30/2018 14:32" } }

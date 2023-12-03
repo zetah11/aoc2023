@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"initialize" : "ct 5/18/2023 16:07" },
+	"instance" : {
+		"fromCharTable" : "ct 5/18/2023 19:47",
+		"mimeDecode" : "ct 5/18/2023 19:49",
+		"mimeDecodeToByteArray" : "ct 5/18/2023 19:49",
+		"mimeEncode" : "ct 5/18/2023 19:12" } }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "ul 9/16/2012 21:01",
+		"testExisting" : "ul 9/17/2012 03:44",
+		"testNextPutAll" : "ar 9/1/2009 00:43",
+		"testPeekBack" : "mt 5/4/2022 10:23",
+		"testPeekLast" : "nice 7/28/2014 22:38",
+		"testUpTo" : "ar 9/1/2009 00:45",
+		"testUpToEnd" : "ar 9/1/2009 00:46" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ct 5/18/2023 20:28",
+	"instvars" : [
+		"data",
+		"multiLine" ],
+	"name" : "RFC4648MimeConverter",
+	"pools" : [
+		 ],
+	"super" : "MimeConverter",
+	"type" : "normal" }

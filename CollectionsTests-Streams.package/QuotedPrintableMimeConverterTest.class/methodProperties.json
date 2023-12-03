@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "pre 4/30/2018 10:50",
+		"testDecode" : "pre 4/30/2018 13:49",
+		"testDecodeCrLfToCr" : "pre 4/30/2018 12:08",
+		"testDecodeMultiline" : "pre 4/30/2018 11:17",
+		"testEncodeEqualSign" : "pre 4/30/2018 11:47",
+		"testEncodeMultilineString" : "pre 4/30/2018 11:53",
+		"testEncodeSimpleString" : "pre 4/30/2018 11:47",
+		"testEncodeWhitespace" : "pre 4/30/2018 12:19",
+		"testEncodingBreaksUpLongLInes" : "pre 4/30/2018 12:04" } }

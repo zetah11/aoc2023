@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"decodeInteger:" : "ct 5/18/2023 19:50",
+		"encodeInteger:" : "ct 5/18/2023 19:51",
+		"mimeDecodeToBytes:" : "ct 6/1/2023 21:38",
+		"mimeDecodeToChars:" : "ct 6/1/2023 21:38",
+		"mimeEncode:" : "ct 6/1/2023 21:38",
+		"mimeEncode:multiLine:" : "ct 6/1/2023 21:38",
+		"mimeEncode:multiLine:atStart:" : "ct 6/1/2023 21:38",
+		"mimeEncodeContinue:" : "ct 6/1/2023 21:39" },
+	"instance" : {
+		"fromCharTable" : "ct 5/18/2023 19:46",
+		"mimeDecode" : "ct 5/18/2023 19:48",
+		"mimeDecodeToByteArray" : "ct 5/18/2023 19:49",
+		"mimeEncode" : "ct 5/18/2023 19:45",
+		"multiLine" : "ar 4/15/2008 17:58",
+		"multiLine:" : "ar 4/15/2008 17:58",
+		"nextValue" : "ct 5/18/2023 19:46" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "CollectionsTests-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Base64MimeConverterTest",
+	"pools" : [
+		 ],
+	"super" : "RFC4648MimeConverterTest",
+	"type" : "normal" }

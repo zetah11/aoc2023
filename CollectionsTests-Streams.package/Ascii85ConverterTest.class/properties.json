@@ -1,0 +1,15 @@
+{
+	"category" : "CollectionsTests-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "topa 7/10/2016 21:04",
+	"instvars" : [
+		"decoded",
+		"encoded" ],
+	"name" : "Ascii85ConverterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

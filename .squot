@@ -4,5 +4,7 @@ OrderedDictionary {
 	'Collections-Abstract.package' : #SquotCypressCodeSerializer,
 	'AoCTests.package' : #SquotCypressCodeSerializer,
 	'Collections-Unordered.package' : #SquotCypressCodeSerializer,
-	'CollectionsTests-Unordered.package' : #SquotCypressCodeSerializer
+	'CollectionsTests-Unordered.package' : #SquotCypressCodeSerializer,
+	'Collections-Streams.package' : #SquotCypressCodeSerializer,
+	'CollectionsTests-Streams.package' : #SquotCypressCodeSerializer
 }

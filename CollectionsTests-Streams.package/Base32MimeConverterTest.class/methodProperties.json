@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBase32Encoded" : "ct 5/18/2023 20:08",
+		"testMimeEncodeDecode" : "ct 5/18/2023 20:10",
+		"testMimeEncodeDecodeMultiLine" : "ct 5/18/2023 20:07",
+		"testOnByteArray" : "ct 5/18/2023 20:07" } }

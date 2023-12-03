@@ -1,0 +1,1 @@
+I am the abstract superclass for power-of-two-base mime converters according to RFC4648. We translate a whole stream at once, taking a Stream as input and giving one as output, and answer a whole stream for the sender to use.

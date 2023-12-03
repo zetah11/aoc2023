@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decoded" : "topa 7/9/2016 11:13",
+		"decoded:" : "topa 7/9/2016 11:13",
+		"encoded" : "topa 7/9/2016 11:13",
+		"encoded:" : "topa 7/9/2016 11:13",
+		"hackedEncoded" : "topa 7/9/2016 12:34",
+		"setUp" : "topa 7/9/2016 19:03",
+		"testAscii85Encoded" : "topa 7/9/2016 11:18",
+		"testDecode1Zero" : "topa 7/10/2016 20:45",
+		"testDecode3Zeros" : "topa 7/10/2016 20:34",
+		"testDecode4Zeros" : "topa 7/10/2016 20:35",
+		"testDecode5Zeros" : "topa 7/10/2016 20:46",
+		"testDecodeEndTooShort" : "topa 7/10/2016 20:48",
+		"testDecodeIgnoreFiller" : "topa 7/9/2016 12:32",
+		"testEncodeDecode" : "tpr 12/30/2022 15:56",
+		"testEncodeDecodeMultiLine" : "topa 7/9/2016 13:09",
+		"testEncodeDecodeWithZ" : "topa 7/10/2016 01:30",
+		"testOnByteArray" : "topa 7/9/2016 11:15" } }

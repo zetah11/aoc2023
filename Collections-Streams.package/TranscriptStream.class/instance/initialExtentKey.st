@@ -1,0 +1,4 @@
+model protocol
+initialExtentKey
+
+	^ { #Transcript }

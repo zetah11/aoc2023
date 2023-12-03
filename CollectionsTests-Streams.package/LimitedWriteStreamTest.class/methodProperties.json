@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "pre 1/2/2023 13:25",
+		"testPutStringOnLimitedStringStream" : "pre 1/2/2023 13:11",
+		"testPutSymbolOnLimitedStringStream" : "pre 1/2/2023 13:25",
+		"testStreamContentsPutSymbolOnLimitedStringStream" : "pre 1/2/2023 13:25" } }

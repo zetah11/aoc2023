@@ -1,0 +1,4 @@
+failures
+expectedFailures
+
+	^ #(testPutSymbolOnLimitedStringStream testStreamContentsPutSymbolOnLimitedStringStream)

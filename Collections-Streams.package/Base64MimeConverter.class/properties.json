@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FromCharTable",
+		"ToCharTable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Base64MimeConverter",
+	"pools" : [
+		 ],
+	"super" : "RFC4648MimeConverter",
+	"type" : "normal" }
