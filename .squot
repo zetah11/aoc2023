@@ -6,5 +6,7 @@ OrderedDictionary {
 	'Collections-Unordered.package' : #SquotCypressCodeSerializer,
 	'CollectionsTests-Unordered.package' : #SquotCypressCodeSerializer,
 	'Collections-Streams.package' : #SquotCypressCodeSerializer,
-	'CollectionsTests-Streams.package' : #SquotCypressCodeSerializer
+	'CollectionsTests-Streams.package' : #SquotCypressCodeSerializer,
+	'KernelTests-Numbers.package' : #SquotCypressCodeSerializer,
+	'Kernel-Numbers.package' : #SquotCypressCodeSerializer
 }

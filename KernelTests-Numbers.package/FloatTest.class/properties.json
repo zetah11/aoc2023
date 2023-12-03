@@ -1,0 +1,22 @@
+{
+	"category" : "KernelTests-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "fbs 3/8/2004 22:13",
+	"instvars" : [
+		"exactInteger",
+		"float",
+		"greaterInexactInt",
+		"smallerInexactInt",
+		"greaterFloat",
+		"smallerFloat",
+		"boxedFloat",
+		"greaterBoxedFloat",
+		"smallerBoxedFloat" ],
+	"name" : "FloatTest",
+	"pools" : [
+		 ],
+	"super" : "ClassTestCase",
+	"type" : "normal" }

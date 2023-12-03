@@ -1,0 +1,25 @@
+{
+	"category" : "Kernel-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ct 10/27/2021 22:04",
+	"instvars" : [
+		"sourceStream",
+		"base",
+		"neg",
+		"integerPart",
+		"fractionPart",
+		"exponent",
+		"scale",
+		"nDigits",
+		"lastNonZero",
+		"requestor",
+		"failBlock",
+		"defaultBase" ],
+	"name" : "NumberParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

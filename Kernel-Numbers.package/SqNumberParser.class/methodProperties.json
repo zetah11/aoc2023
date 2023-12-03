@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allowPlusSign" : "nice 2/13/2010 00:00",
+		"exponentLetters" : "nice 4/27/2006 22:57",
+		"makeIntegerOrScaledInteger" : "nice 11/24/2022 11:25",
+		"makeScaledDecimalWithNumberOfNonZeroFractionDigits:andNumberOfTrailingZeroInFractionPart:" : "nice 10/7/2009 01:40",
+		"nextFraction" : "ct 10/27/2021 21:40",
+		"nextFractionBase:" : "nice 5/20/2012 16:09",
+		"nextInteger" : "ct 10/27/2021 21:41",
+		"nextNumber" : "ct 10/27/2021 21:38",
+		"nextNumberBase:" : "nice 10/16/2008 00:50",
+		"nextScaledDecimal" : "ct 10/27/2021 21:41",
+		"nextUnsignedInteger" : "ct 10/27/2021 21:41",
+		"readFractionPartNumberOfTrailingZeroInIntegerPart:" : "nice 5/22/2012 22:32",
+		"readNamedFloatOrFail" : "nice 5/3/2014 22:33:10.493",
+		"readNumberWithFractionPartNumberOfTrailingZeroInIntegerPart:" : "nice 3/15/2014 15:45",
+		"readScaleWithDefaultNumberOfDigits:" : "ct 10/27/2021 21:34" } }

@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assert:classAndValueEquals:" : "nice 5/7/2021 20:39",
+		"assertSqrtCorrectlyRoundedForExponent:" : "nice 5/13/2019 15:03",
+		"testBitShift" : "md 3/17/2003 15:20",
+		"testDenormalizedPrintString" : "ul 11/15/2010 11:52",
+		"testDigitAt" : "dtl 7/22/2014 21:40",
+		"testDigitAtPut" : "dtl 7/22/2014 21:35",
+		"testDigitDiv" : "nice 5/3/2019 21:38",
+		"testDigitLength" : "dtl 7/22/2014 21:39",
+		"testEmptyTemplate" : "ul 11/15/2010 11:52",
+		"testFastMultiply" : "nice 4/30/2019 23:05",
+		"testLargeSqrtFloor" : "nice 3/21/2014 18:38",
+		"testMultDicAddSub" : "sd 6/5/2005 08:52",
+		"testNormalize" : "sd 6/5/2005 08:53",
+		"testReciprocalModulo" : "nice 9/6/2010 21:51",
+		"testReplaceFromToWithStartingAt" : "dtl 7/22/2014 21:59",
+		"testSqrt" : "nice 5/13/2019 13:56",
+		"testSqrtCorrectlyRounded" : "nice 5/13/2019 15:03",
+		"testSqrtNearExactTie" : "nice 5/7/2021 21:13",
+		"testSqrtRem" : "nice 4/27/2019 13:55",
+		"testSquared" : "nice 5/3/2019 22:35",
+		"x106kbits" : "nice 4/27/2019 13:58",
+		"x13kbits" : "nice 4/28/2019 01:41",
+		"x23kbits" : "nice 4/27/2019 14:02",
+		"x92kbits" : "nice 4/28/2019 00:55" } }
