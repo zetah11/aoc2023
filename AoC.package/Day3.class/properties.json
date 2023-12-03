@@ -1,0 +1,17 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"width",
+		"height",
+		"symbols",
+		"numbers" ],
+	"name" : "Day3",
+	"pools" : [
+		 ],
+	"super" : "Day",
+	"type" : "normal" }

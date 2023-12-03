@@ -1,3 +1,3 @@
 instance creation
 withInput: input
-	^ self new initialize: input
+	^ self basicNew initialize: input
