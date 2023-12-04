@@ -1,0 +1,16 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"winning",
+		"numbers" ],
+	"name" : "Day4Card",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

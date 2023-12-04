@@ -2,15 +2,14 @@ parsing
 gameParser
 	| game red green blue colon comma semicolon number color colorCount colorSet sets gameId |
 	"Tokens"
-	game := (Parsing literally: 'Game') tokenized.
-	red := (Parsing literally: 'red') tokenized.
-	green := (Parsing literally: 'green') tokenized.
-	blue := (Parsing literally: 'blue') tokenized.
-	colon := (Parsing literally: ':') tokenized.
-	comma := (Parsing literally: ',') tokenized.
-	semicolon := (Parsing literally: ';') tokenized.
-	number := (Parsing characterMatching: [:c | c isDigit]) manyTimes tokenized
-		collecting: [:digits | (digits as: String) asNumber].
+	game := Parsing token: 'Game'.
+	red := Parsing token: 'red'.
+	green := Parsing token: 'green'.
+	blue := Parsing token: 'blue'.
+	colon := Parsing token: ':'.
+	comma := Parsing token: ','.
+	semicolon := Parsing token: ';'.
+	number := Parsing number tokenized.
 
 	"Productions"
 	color := red / green / blue.
