@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Sequenceable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 3/3/2021 01:47",
+	"instvars" : [
+		 ],
+	"name" : "LimitedPrecisionInterval",
+	"pools" : [
+		 ],
+	"super" : "Interval",
+	"type" : "normal" }

@@ -8,5 +8,6 @@ OrderedDictionary {
 	'Collections-Streams.package' : #SquotCypressCodeSerializer,
 	'CollectionsTests-Streams.package' : #SquotCypressCodeSerializer,
 	'KernelTests-Numbers.package' : #SquotCypressCodeSerializer,
-	'Kernel-Numbers.package' : #SquotCypressCodeSerializer
+	'Kernel-Numbers.package' : #SquotCypressCodeSerializer,
+	'Collections-Sequenceable.package' : #SquotCypressCodeSerializer
 }
