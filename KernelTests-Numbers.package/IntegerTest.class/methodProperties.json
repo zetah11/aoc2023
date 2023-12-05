@@ -4,6 +4,7 @@
 	"instance" : {
 		"assert:classAndValueEquals:" : "jmv 10/11/2011 08:14",
 		"testBenchFib" : "sd 6/5/2005 08:37",
+		"testBezoutCoefficients" : "z 12/5/2023 16:52",
 		"testBigReceiverInexactNthRoot" : "eem 11/22/2014 07:54",
 		"testBigReceiverInexactSqrt" : "eem 11/22/2014 07:55",
 		"testBitAt" : "nice 12/27/2009 03:11",

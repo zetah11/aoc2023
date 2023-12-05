@@ -1,0 +1,16 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"destinationStart",
+		"sourceStart",
+		"length" ],
+	"name" : "Day5Range",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

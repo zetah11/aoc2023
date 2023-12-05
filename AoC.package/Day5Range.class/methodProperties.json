@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"withSourceStart:destinationStart:length:" : "z 12/5/2023 11:27" },
+	"instance" : {
+		"destinationRange" : "z 12/5/2023 11:17",
+		"destinationStart" : "z 12/5/2023 11:13",
+		"initializeTo:from:ofLength:" : "z 12/5/2023 11:26",
+		"length" : "z 12/5/2023 11:13",
+		"sourceContains:" : "z 12/5/2023 11:15",
+		"sourceRange" : "z 12/5/2023 11:17",
+		"sourceStart" : "z 12/5/2023 11:13",
+		"translate:" : "z 12/5/2023 12:05",
+		"translateRange:" : "z 12/5/2023 21:43" } }

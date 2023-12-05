@@ -17,6 +17,7 @@
 		"testHashEqualIfIntervalEqual" : "cbc 10/28/2018 17:03",
 		"testInclusionBug1603" : "nice 4/29/2007 21:34",
 		"testIndexOfBug1602" : "nice 4/29/2007 21:35",
+		"testIntersectingRange" : "z 12/5/2023 18:13",
 		"testIntervalStoreOn" : "nice 5/12/2007 00:53",
 		"testInvalid" : "nice 2/12/2019 23:15",
 		"testIsInterval" : "zz 12/7/2005 13:29",

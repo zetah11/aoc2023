@@ -1,0 +1,14 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ranges" ],
+	"name" : "Day5Map",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

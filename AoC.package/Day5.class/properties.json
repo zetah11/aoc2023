@@ -1,0 +1,15 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"seedsParser",
+		"rangeParser" ],
+	"name" : "Day5",
+	"pools" : [
+		 ],
+	"super" : "Day",
+	"type" : "normal" }
