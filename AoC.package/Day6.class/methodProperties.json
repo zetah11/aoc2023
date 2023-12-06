@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"distance" : "z 12/6/2023 11:01",
+		"distances" : "z 12/6/2023 10:58",
+		"marginOfError" : "z 12/6/2023 10:54",
+		"time" : "z 12/6/2023 11:01",
+		"times" : "z 12/6/2023 10:58",
+		"waysToWin:in:" : "z 12/6/2023 10:51",
+		"waysToWinBig" : "z 12/6/2023 11:03" } }
