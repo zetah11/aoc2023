@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"directions" : "z 12/13/2023 12:29",
+		"ghostlySteps" : "z 12/13/2023 12:38",
+		"initialize" : "z 12/13/2023 12:29",
+		"lrParser" : "z 12/13/2023 12:04",
+		"nodeParser" : "z 12/13/2023 12:23",
+		"nodes" : "z 12/13/2023 12:30",
+		"stepsToZZZ" : "z 12/13/2023 12:33",
+		"stepsUntil:from:" : "z 12/13/2023 12:33" } }

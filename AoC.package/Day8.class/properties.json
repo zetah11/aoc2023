@@ -1,0 +1,15 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"map",
+		"directions" ],
+	"name" : "Day8",
+	"pools" : [
+		 ],
+	"super" : "Day",
+	"type" : "normal" }

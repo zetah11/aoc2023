@@ -1,0 +1,16 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"left",
+		"right" ],
+	"name" : "Day8Node",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
