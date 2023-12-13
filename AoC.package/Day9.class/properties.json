@@ -1,0 +1,14 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"histories" ],
+	"name" : "Day9",
+	"pools" : [
+		 ],
+	"super" : "Day",
+	"type" : "normal" }

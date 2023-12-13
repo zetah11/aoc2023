@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "z 12/13/2023 12:50",
+		"predict:" : "z 12/13/2023 12:53",
+		"predict:at:doing:" : "z 12/13/2023 12:54",
+		"predictBefore:" : "z 12/13/2023 12:54",
+		"predictions" : "z 12/13/2023 12:47",
+		"predictionsBefore" : "z 12/13/2023 12:51" } }
