@@ -1,0 +1,16 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bid",
+		"cards",
+		"jokerType" ],
+	"name" : "Day7Hand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

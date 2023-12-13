@@ -1,0 +1,14 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isJoker" ],
+	"name" : "Day7InterestingCard",
+	"pools" : [
+		 ],
+	"super" : "Day7Card",
+	"type" : "normal" }

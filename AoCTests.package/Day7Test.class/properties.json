@@ -1,0 +1,14 @@
+{
+	"category" : "AoCTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Day7Test",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

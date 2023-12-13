@@ -1,0 +1,15 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"handParser",
+		"jokerParser" ],
+	"name" : "Day7",
+	"pools" : [
+		 ],
+	"super" : "Day",
+	"type" : "normal" }

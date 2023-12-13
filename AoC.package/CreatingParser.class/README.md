@@ -1,0 +1,1 @@
+I parse a single character when block answers a non-nil value

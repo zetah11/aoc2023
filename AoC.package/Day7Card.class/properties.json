@@ -1,0 +1,14 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "Day7Card",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
