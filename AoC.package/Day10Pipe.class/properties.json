@@ -1,0 +1,16 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x",
+		"y",
+		"shape" ],
+	"name" : "Day10Pipe",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

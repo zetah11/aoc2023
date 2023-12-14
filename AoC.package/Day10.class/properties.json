@@ -1,0 +1,15 @@
+{
+	"category" : "AoC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pipes",
+		"start" ],
+	"name" : "Day10",
+	"pools" : [
+		 ],
+	"super" : "Day",
+	"type" : "normal" }
